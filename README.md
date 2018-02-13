@@ -19,7 +19,7 @@ MVP Description and Essential Features:
 
 Functionality: N/A
 
-Installation steps: on an internet browser, navigate to this address: URL
+Installation steps: Clone repository onto personal computer. On the terminal, navigate to repository folder and into the rails-app folder. Once again on the terminal, run the command "bundle install" and then "rails s". Go to a web browser and go to: http://localhost:3000.
 
 Issues: N/A
 
